@@ -30,7 +30,7 @@ const Form = styled.div`
   width: 100%;
 `;
 
-const Input = styled.div`
+const Input = styled.input`
   padding: 1rem;
   border: 1px solid #999;
   margin-bottom: 1rem;
